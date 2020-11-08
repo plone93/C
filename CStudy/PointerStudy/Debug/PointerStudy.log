@@ -1,0 +1,16 @@
+﻿  Void포인터.c
+C:\Users\plone\Documents\GitHub\C\CStudy\PointerStudy\Void포인터.c(21,18): error C2100: 간접 참조가 잘못되었습니다.
+C:\Users\plone\Documents\GitHub\C\CStudy\PointerStudy\Void포인터.c(21,12): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'void *'입니다.
+C:\Users\plone\Documents\GitHub\C\CStudy\PointerStudy\Void포인터.c(24,18): error C2100: 간접 참조가 잘못되었습니다.
+C:\Users\plone\Documents\GitHub\C\CStudy\PointerStudy\Void포인터.c(24,12): warning C4477: 'printf' : 서식 문자열 '%c'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'void *'입니다.
+  상수와 포인터.c
+C:\Users\plone\Documents\GitHub\C\CStudy\PointerStudy\상수와 포인터.c(6,3): error C2166: l-value가 const 개체를 지정합니다.
+C:\Users\plone\Documents\GitHub\C\CStudy\PointerStudy\상수와 포인터.c(8,6): error C2373: 'num1': 재정의. 형식 한정자가 다릅니다.
+C:\Users\plone\Documents\GitHub\C\CStudy\PointerStudy\상수와 포인터.c(2): message : 'num1' 선언을 참조하십시오.
+C:\Users\plone\Documents\GitHub\C\CStudy\PointerStudy\상수와 포인터.c(10,13): error C2373: 'numPtr': 재정의. 형식 한정자가 다릅니다.
+C:\Users\plone\Documents\GitHub\C\CStudy\PointerStudy\상수와 포인터.c(3): message : 'numPtr' 선언을 참조하십시오.
+C:\Users\plone\Documents\GitHub\C\CStudy\PointerStudy\상수와 포인터.c(10,1): warning C4090: '초기화 중': 'const' 한정자가 서로 다릅니다.
+  이중포인터.c
+  포인터변수.c
+C:\Users\plone\Documents\GitHub\C\CStudy\PointerStudy\포인터변수.c(15,12): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+  코드를 생성하고 있습니다...
